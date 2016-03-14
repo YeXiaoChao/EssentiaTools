@@ -1,0 +1,14 @@
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\bin\Debug\EssentiaTools.Tests.dll
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\bin\Debug\EssentiaTools.Tests.pdb
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\bin\Debug\EssentiaTools.dll
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\bin\Debug\System.Web.Mvc.dll
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\bin\Debug\Ninject.dll
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\bin\Debug\EssentiaTools.pdb
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\bin\Debug\System.Web.Mvc.xml
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\bin\Debug\Ninject.xml
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\obj\Debug\EssentiaTools.Tests.csprojResolveAssemblyReference.cache
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\obj\Debug\EssentiaTools.Tests.dll
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\obj\Debug\EssentiaTools.Tests.pdb
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\bin\Debug\Moq.dll
+D:\GifSpace\EssentiaTools\EssentiaTools.Tests\bin\Debug\Moq.xml
